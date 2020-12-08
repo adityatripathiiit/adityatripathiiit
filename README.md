@@ -49,6 +49,8 @@ My name is Aditya Tripathi. I am currently a 3rd year undergraduate in Computer 
   </tr>
 <table>
 
+![](https://komarev.com/ghpvc/?username=adityatripathiiit&color=brightgreen&style=flat)
+
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
