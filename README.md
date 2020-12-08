@@ -17,6 +17,7 @@ My name is Aditya Tripathi. I am currently a 3rd year undergraduate in Computer 
 <p align="center">
 <img align="center" alt="C++" width="50" src="icons/cpp.png" /> &nbsp;&nbsp;
 <img align="center" alt="Python" width="50" src="icons/python.png" />&nbsp;&nbsp;
+<img align="center" alt="Linux" width="50" src="icons/linux.png" />&nbsp;&nbsp;
 <img align="center" alt="C" width="50" src="icons/c.png" />&nbsp;&nbsp;
 <img align="center" alt="HTML5" width="50" src="icons/html.png" />&nbsp;&nbsp;
 <img align="center" alt="CSS3" width="50" src="icons/css.png" />&nbsp;&nbsp;
@@ -32,3 +33,18 @@ My name is Aditya Tripathi. I am currently a 3rd year undergraduate in Computer 
 <img align="center" alt="Terminal" width="50" src="icons/terminal.png" />&nbsp;&nbsp;
 <img align="center" alt="Visual Studio Code" width="50" src="icons/visual-studio-code.png" />&nbsp;&nbsp;
 </p>
+
+<br>
+
+## 📈 GitHub Stats
+
+<table width="100%">
+  <tr>
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=adityatripathiiit&show_icons=true&hide_border=true" /> 
+    </td>
+    <td> 
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityatripathiiit&exclude_repo=Digital,Python-Based-Automated-Verilog-Code-Generator-For-Arithmetic-Unit&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
+    </td>
+  </tr>
+<table>
