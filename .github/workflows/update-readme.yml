@@ -1,18 +1,17 @@
-name: Update GitHub Profile README
+name: Update README
+
 on:
-  push:
   schedule:
-    - cron: "*/30 * * * *" 
+    - cron: '*/30 * * * *'
   workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+
     steps:
-    - name: Update GitHub Profile README
-      uses: theboi/github-update-readme@main
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        header: "[![Header](header.png "Header")](https://github.com/adityatripathiiit/)\n<p align='center'>\n<a href="http://instagram.com/aditya_trips_"><img height="40" src="icons/insta.png"></a>&nbsp;&nbsp;\n<a href="https://www.linkedin.com/in/aditya-tripathi-495a5219b/"><img height="40" src="icons/linkedin.png"></a>&nbsp;&nbsp;\n<a href="https://www.facebook.com/aditya.tripathi.58367116"><img height="40" src="icons/fb.png"></a>&nbsp;&nbsp;\n<a href="mailto:adityatripathiball@gmail.com"><img height="40" src="icons/gmail.png"></a>\n</p>\n# Hey there! <img src="wave.gif" width="30px">\nMy name is Aditya Tripathi. I am currently a 3rd year undergraduate in Computer Science and Engineering at IIT Gandhinagar. I have a lot of interest in software development and I 🧡 programming. This is the place where I opensource things and learn 😎 to make and break stuff 🙄.\n## 🔧 Technologies, Tools and Skills\n<br>\n<p align="center">\n<img align="center" alt="C++" width="50" src="icons/cpp.png" /> &nbsp;&nbsp;\n<img align="center" alt="Python" width="50" src="icons/python.png" />&nbsp;&nbsp;\n<img align="center" alt="Linux" width="50" src="icons/linux.png" />&nbsp;&nbsp;\n<img align="center" alt="C" width="50" src="icons/c.png" />&nbsp;&nbsp;\n<img align="center" alt="HTML5" width="50" src="icons/html.png" />&nbsp;&nbsp;\n<img align="center" alt="CSS3" width="50" src="icons/css.png" />&nbsp;&nbsp;\n<img align="center" alt="AWS" width="50" src="icons/aws.png" />&nbsp;&nbsp;\n<img align="center" alt="JavaScript" width="50" src="icons/javascript.png" />&nbsp;&nbsp;\n<img align="center" alt="React" width="50" src="icons/react.png" />&nbsp;&nbsp;\n<img align="center" alt="GraphQL" width="50" src="icons/graphql.png" />&nbsp;&nbsp;\n<img align="center" alt="Node.js" width="50" src="icons/nodejs.png" />&nbsp;&nbsp;\n<img align="center" alt="MySQL" width="50" src="icons/mysql.png" />&nbsp;&nbsp;\n<img align="center" alt="MongoDB" width="50" src="icons/mongodb.png" />&nbsp;&nbsp;\n<img align="center" alt="Git" width="50" src="icons/git.png" />&nbsp;&nbsp;\n<img align="center" alt="GitHub" width="50" src="icons/github.png" />&nbsp;&nbsp;\n<img align="center" alt="Terminal" width="50" src="icons/terminal.png" />&nbsp;&nbsp;\n<img align="center" alt="Visual Studio Code" width="50" src="icons/visual-studio-code.png" />&nbsp;&nbsp;\n</p>\n<br>\n## 📈 GitHub Stats\n<table width="100%">\n<tr>\n<td>\n<img height="200em" src="https://github-readme-stats.vercel.app/api?username=adityatripathiiit&show_icons=true&hide_border=true" /> \n</td>\n<td> \n<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityatripathiiit&exclude_repo=Digital,Python-Based-Automated-Verilog-Code-Generator-For-Arithmetic-Unit&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> \n</td>\n</tr>\n<table>\n![](https://komarev.com/ghpvc/?username=adityatripathiiit&color=brightgreen&style=flat)\n"
-        subhead: "Currently a student in Singapore, passionate about creating all-things-tech to improve society."
-        
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
