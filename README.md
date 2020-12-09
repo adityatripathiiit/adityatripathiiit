@@ -52,8 +52,8 @@ My name is Aditya Tripathi. I am currently a 3rd year undergraduate in Computer 
 ![](https://komarev.com/ghpvc/?username=adityatripathiiit&color=brightgreen&style=flat)
 
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
+<details open>
+  :zap: Recent Github Activity</summary>
   <!--START_SECTION:activity-->
   1. 🎉 Merged PR [#1](https://github.com/adityatripathiiit/adityatripathiiit/pull/1) in [adityatripathiiit/adityatripathiiit   (https://github.com/adityatripathiiit/adityatripathiiit)
   2. 💪 Opened PR [#1](https://github.com/adityatripathiiit/adityatripathiiit/pull/1) in [adityatripathiiit/adityatripathiiit](https://github.com/adityatripathiiit/adityatripathiiit)
