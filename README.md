@@ -54,10 +54,5 @@ My name is Aditya Tripathi. I am currently a 3rd year undergraduate in Computer 
 
 ---
 
-### :zap: Recent Github Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 ---
