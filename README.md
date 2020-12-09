@@ -55,9 +55,8 @@ My name is Aditya Tripathi. I am currently a 3rd year undergraduate in Computer 
 <details>
   <summary>:zap: Recent Github Activity</summary>
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/adityatripathiiit/adityatripathiiit/pull/1) in [adityatripathiiit/adityatripathiiit](https://github.com/adityatripathiiit/adityatripathiiit)
-2. 💪 Opened PR [#1](https://github.com/adityatripathiiit/adityatripathiiit/pull/1) in [adityatripathiiit/adityatripathiiit](https://github.com/adityatripathiiit/adityatripathiiit)
-3. 💪 Opened PR [#3](https://github.com/adityatripathiiit/Concurrent-Trie/pull/3) in [adityatripathiiit/Concurrent-Trie](https://github.com/adityatripathiiit/Concurrent-Trie)
+  1. 🎉 Merged PR [#1](https://github.com/adityatripathiiit/adityatripathiiit/pull/1) in [adityatripathiiit/adityatripathiiit   (https://github.com/adityatripathiiit/adityatripathiiit)
+  2. 💪 Opened PR [#1](https://github.com/adityatripathiiit/adityatripathiiit/pull/1) in [adityatripathiiit/adityatripathiiit](https://github.com/adityatripathiiit/adityatripathiiit)
+  3. 💪 Opened PR [#3](https://github.com/adityatripathiiit/Concurrent-Trie/pull/3) in [adityatripathiiit/Concurrent-Trie](https://github.com/adityatripathiiit/Concurrent-Trie)
   <!--END_SECTION:activity-->
-
 </details>
