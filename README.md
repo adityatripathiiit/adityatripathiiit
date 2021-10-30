@@ -5,12 +5,12 @@
 <a href="http://instagram.com/aditya_trips_"><img height="40" src="icons/insta.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aditya-tripathi-495a5219b/"><img height="40" src="icons/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/aditya.tripathi.58367116"><img height="40" src="icons/fb.png"></a>&nbsp;&nbsp;
-<a href="mailto:adityatripathiball@gmail.com"><img height="40" src="icons/gmail.png"></a>
+<a href="mailto:adityatrips1@gmail.com"><img height="40" src="icons/gmail.png"></a>
 </p>
 
 # Hey there! <img src="wave.gif" width="30px">
 
-My name is Aditya Tripathi. I am currently a 3rd year undergraduate in Computer Science and Engineering at IIT Gandhinagar. I have a lot of interest in software development and I 🧡 programming. This is the place where I opensource things and learn 😎 to make and break stuff 🙄. 
+My name is Aditya Tripathi. I am currently a Final year undergraduate in Computer Science and Engineering at IIT Gandhinagar. I have a lot of interest in software development and I 🧡 programming. This is the place where I opensource things and learn 😎 to make and break stuff 🙄. 
 
 ## 🔧 Technologies, Tools and Skills
 <br>
